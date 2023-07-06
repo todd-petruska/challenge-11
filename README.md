@@ -6,11 +6,11 @@ A repository labeled challenge-12 contains the following files:
 *    part_1_mars_news.ipynb
 *    part_2_mars_weather.ipynb
 *   Output folder
-** avg_press_month.png
-** avg_temp_by_month.png
-** cold_hot_months_curiosity_location.png
-** mars_weather.csv
-** terrestrial_days.png
+* avg_press_month.png
+* avg_temp_by_month.png
+* cold_hot_months_curiosity_location.png
+* mars_weather.csv
+* terrestrial_days.png
 
 This project consists of two technical products. 
 
